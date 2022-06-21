@@ -5,7 +5,7 @@
 }
 header{
     background-image: url(../img/1.jpg);
-    height:115vh ;
+    height:120vh ;
     background-size: cover;
     background-position: center ;
 }
@@ -19,9 +19,9 @@ ul li {
 }
 ul li a{
     text-decoration: none;
-    color: beige;
+    color: rgb(28, 28, 198);
     padding: 5px 20px;
-    border:1px solid #fff;
+    border:1px solid rgb(41, 16, 16);
 
 }
 ul li a:hover{
@@ -34,5 +34,5 @@ ul li .active a{
 }
 .main{
     max-width: 1200;
-    margin: auto;
+    margin: 1200;
 }
